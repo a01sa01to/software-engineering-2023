@@ -47,9 +47,9 @@ git stash pop
 
 マージを中止する場合は、`git merge --abort` を実行する。
 
-## GitHub フロー
+## GitHub Flow
 
-GitHub フローでは、 main ブランチと dev ブランチの2つのブランチを使う。
+GitHub Flow では、 main ブランチと dev ブランチの2つのブランチを使う。
 開発は、 dev ブランチで行い、 main ブランチに Merge する。
 リリースは main ブランチで Tag をつけて行う。
 Hotfix は dev ブランチで行い、 dev ブランチで Tag をつける。
