@@ -18,8 +18,8 @@ git config --global user.email "EMAIL"
 
 ## .gitignore
 
-Git で管理しないファイルを指定する
-glob パターンで指定、コメントは `#`
+Git で管理しないファイルを指定する。
+glob パターンで指定、コメントは `#`。
 
 ## Branch
 
